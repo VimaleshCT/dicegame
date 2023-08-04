@@ -1,0 +1,47 @@
+
+
+.container{
+    width:75%;
+    margin:auto;
+    text-align: center; 
+}
+
+.dice{
+   
+    align-items: center;
+    display:inline-block;
+}
+
+body{
+    background-color: slategray;
+    background-image: url("images/dice.png");
+}
+h1{
+   
+    text-align: center;
+    font-family:'Bungee spice';
+    text-shadow: 5px 0 #91C8E4 ;
+    font-size: 7rem;
+    font-style:italic;
+    color: orangered;
+}
+
+p{
+    font-size:3rem;
+    color: #45CFDD;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+img{
+    width:70%
+}
+
+footer{
+    color: #FF6D60;
+    margin-top: 5%;
+    text-align: center;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+button{
+    background-color: #FF6D60;
+}
